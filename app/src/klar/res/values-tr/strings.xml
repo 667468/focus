@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="shortcut_erase_and_open_long_label">Sil ve %1$s’ı aç</string>
+  <string name="preference_security_biometric_summary">%1$s’da açık bir sayfa varsa uygulamanın kilidini parmak izinizle açmanız gerekir. Görünmezlik özelliği de açılır.</string>
+  <string name="preference_default_browser2">%1$s’ı varsayılan tarayıcım yap</string>
+  <string name="preference_mozilla_telemetry_summary2">Mozilla, yalnızca %1$s’ı daha da geliştirmek için ihtiyaç duyduğumuz verileri toplar.</string>
+  <string name="firstrun_shortcut_text">%1$s’da sevdiğiniz sitelere çabucak ulaşabilirsiniz. %1$s menüsünden \"Ana ekrana ekle\"yi seçmeniz yeterli.</string>
+  <string name="firstrun_privacy_text">%1$s’ı varsayılan tarayıcınız yapın, diğer uygulamalarda web sayfalarını açtığınız zaman da gizli gezintiden yararlanın.</string>
+  <string name="your_rights_content5"><![CDATA["%1$s ayrıca Disconnect, Inc. tarafından sağlanan engelleme listelerini kullanır. %1$s’dan ayrı ve bağımsız olan "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%3$s">bu &#231;al&#305;&#351;malar</a>" "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">GNU Kamu Lisans&#305; v3</a>" ile sunulmaktadır."]]></string>
+  <string name="enable_search_suggestion_subtitle">Arama önerileri alabilmeniz için %1$s’ın adres çubuğuna yazdığınız şeyleri seçtiğiniz arama motoruna göndermesi gerekir. %2$s.</string>
+  <string name="tip_set_default_browser">Her bağlantıyı %1$s ile açabilirsiniz\n %1$s’ı varsayılan tarayıcınız yapın</string>
+  <string name="fatal_crash_report_restart_firefox_label">%1$s’ı yeniden başlat</string>
+</resources>
