@@ -9,6 +9,7 @@
         <item name="colorAccent">@color/colorAccent</item>
 
         <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDisablePreview">true</item>
 
         <item name="popupMenuStyle">@style/PopupMenu</item>
 
