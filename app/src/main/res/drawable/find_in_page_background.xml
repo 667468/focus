@@ -12,7 +12,7 @@
     </item>
     <item android:top="1dp">
         <shape>
-            <solid android:color="@color/photonInk80"/>
+            <solid android:color="@color/antoryaBlack"/>
         </shape>
     </item>
 </layer-list>

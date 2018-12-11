@@ -100,7 +100,6 @@
                     android:requiresFadingEdge="horizontal"
                     android:selectAllOnFocus="true"
                     android:textColor="#ffffff"
-                    android:textColorHighlight="@color/colorAccent"
                     android:textColorHint="@color/urlBarHintText"
                     android:textSize="15sp"
                     android:textCursorDrawable="@drawable/cursor"
