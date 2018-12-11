@@ -127,6 +127,10 @@
 <a href="%2$s">Learn more</a></p>
     ]]></string>
 
+    <string name="about_antorya_content"><![CDATA[
+<p>Modified by Antorya Project <a href="https://tinyurl.com/AntoryaFocus">Github</a></p>
+    ]]></string>
+
     <!-- Header for the Privacy and Security settings menu -->
     <string name="preference_privacy_and_security_header">Privacy &amp; Security</string>
 
