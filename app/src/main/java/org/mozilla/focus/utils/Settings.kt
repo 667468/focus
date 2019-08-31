@@ -37,7 +37,7 @@ class Settings private constructor(context: Context) {
         get() = preferences.getBoolean(getPreferenceKey(R.string.has_added_to_home_screen), false)
 
     val defaultSearchEngineName: String
-        get() = preferences.getString(getPreferenceKey(R.string.pref_key_search_engine), "")!!
+        get() = preferences.getString(getPreferenceKey(R.string.pref_key_search_engine), "DuckDuckGo")!!
 
     fun shouldBlockImages(): Boolean =
             // Not shipping in v1 (#188)
