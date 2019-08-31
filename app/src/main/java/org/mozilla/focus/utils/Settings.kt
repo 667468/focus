@@ -54,7 +54,7 @@ class Settings private constructor(context: Context) {
     fun shouldDisplayHomescreenTips() =
             preferences.getBoolean(
                     getPreferenceKey(R.string.pref_key_homescreen_tips),
-                    true)
+                    false)
 
     fun shouldShowSearchSuggestions(): Boolean =
             preferences.getBoolean(
