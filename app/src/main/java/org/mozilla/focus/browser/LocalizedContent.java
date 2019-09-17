@@ -56,7 +56,7 @@ public class LocalizedContent {
                     " \uD83E\uDD8E " + BuildConfig.GECKOVIEW_VERSION
                     : "";
             final PackageInfo packageInfo = context.getPackageManager().getPackageInfo(context.getPackageName(), 0);
-            aboutVersion = String.format("%s (Build #%s)", packageInfo.versionName, packageInfo.versionCode + engineIndicator);
+            aboutVersion = String.format("Build Code: #%s", packageInfo.versionCode);
         } catch (PackageManager.NameNotFoundException e) {
             // Nothing to do if we can't find the package name.
         }
