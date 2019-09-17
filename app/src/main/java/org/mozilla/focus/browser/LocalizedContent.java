@@ -65,8 +65,8 @@ public class LocalizedContent {
         final String aboutContent = resources.getString(R.string.about_content, appName, learnMoreURL);
         substitutionMap.put("%about-content%", aboutContent);
 
-        final String aboutAntoryaContent = resources.getString(R.string.about_antorya_content, learnMoreURL);
-        substitutionMap.put("%about-antorya-content%", aboutAntoryaContent);
+        final String aboutSource = resources.getString(R.string.about_source, learnMoreURL);
+        substitutionMap.put("%about-source%", aboutSource);
 
         final String wordmark = HtmlLoader.loadPngAsDataURI(context, R.drawable.wordmark);
         substitutionMap.put("%wordmark%", wordmark);

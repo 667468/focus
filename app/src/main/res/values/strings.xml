@@ -127,8 +127,8 @@
 <a href="%2$s">Learn more</a></p>
     ]]></string>
 
-    <string name="about_antorya_content"><![CDATA[
-<p>Modified by Antorya Project <a href="https://github.com/fatihunsever/focus">Github</a></p>
+    <string name="about_source"><![CDATA[
+    	<a href="https://github.com/fatihunsever/focus">Source</a>
     ]]></string>
 
     <!-- Header for the Privacy and Security settings menu -->
